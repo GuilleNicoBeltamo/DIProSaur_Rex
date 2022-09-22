@@ -11,12 +11,13 @@ Estos profesionales, formados en Córdoba, decidieron trabajar conjuntamente par
 Toda aquella persona u organización que desee conformar una pagina web o bien desarrollar una aplicación en particular.
 
 ## Tipografía Principal
+Aún estamos explorando opciones, pero la primera selección incluye a:
+[Lato]:https://fonts.google.com/specimen/Lato?preview.text=profesional&preview.size=34&preview.text_type=custom
+[Lato][Lato]
 
-<p>
+[ArefRuqaaInk ]:https://fonts.google.com/specimen/Aref+Ruqaa+Ink
+[Aref Ruqaa Ink ][ArefRuqaaInk ]
 
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">Aún estamos explorando opciones...</span>
-
-</p>
 
 ## Paleta de colores
 Utilizariamos la paleta de 3 colores compuesta por:
