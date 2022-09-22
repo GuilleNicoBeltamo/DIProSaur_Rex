@@ -15,9 +15,10 @@ Aún la estamos definiendo...
 
 ## Paleta de colores
 Utilizariamos la paleta de 3 colores compuesta por:
-- RGB: #D8A4E0
-- RGB: #8EE0C7
-- RGB: #E0C477
+- RGB: '#D8A4E0'
+- RGB: '#8EE0C7'
+- RGB: '#E0C477'
+test
 
 ## Ideas para logo (Aún no definido)
 ![Dino Programando](https://previews.123rf.com/images/dogbone66/dogbone661312/dogbone66131200022/24465354-juguete-del-dinosaurio-en-un-ordenador-port%C3%A1til.jpg "Dino programando")
