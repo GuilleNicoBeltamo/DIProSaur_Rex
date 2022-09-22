@@ -11,11 +11,13 @@ Estos profesionales, formados en Córdoba, decidieron trabajar conjuntamente par
 Toda aquella persona u organización que desee conformar una pagina web o bien desarrollar una aplicación en particular.
 
 ## Tipografía Principal
+
 <p>
 
 <p><font color="#D8A4E0"> This text should be purple </font></p>
 
 </p>
+
 ## Paleta de colores
 Utilizariamos la paleta de 3 colores compuesta por:
 - RGB: `#D8A4E0`
