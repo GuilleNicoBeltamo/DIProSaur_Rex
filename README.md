@@ -11,8 +11,9 @@ Estos profesionales, formados en Córdoba, decidieron trabajar conjuntamente par
 Toda aquella persona u organización que desee conformar una pagina web o bien desarrollar una aplicación en particular.
 
 ## Tipografía Principal
-I am in <span style="font-family:Papyrus; font-size:20em;">LOVE!</span>
-I am in LOVE!
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
 
 ## Referencias
 [MercadoLibre]:https://mercadolibre.com.ar
