@@ -12,6 +12,7 @@ Toda aquella persona u organización que desee conformar una pagina web o bien d
 
 ## Tipografía Principal
 Aún estamos explorando opciones, pero la primera selección incluye a:
+
 [Lato]:https://fonts.google.com/specimen/Lato?preview.text=profesional&preview.size=34&preview.text_type=custom
 [Lato][Lato]
 
