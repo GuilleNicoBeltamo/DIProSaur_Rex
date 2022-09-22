@@ -11,9 +11,14 @@ Estos profesionales, formados en Córdoba, decidieron trabajar conjuntamente par
 Toda aquella persona u organización que desee conformar una pagina web o bien desarrollar una aplicación en particular.
 
 ## Tipografía Principal
-<span style="color:green;font-weight:700;font-size:20px">
-    markdown color font styles
-</span>
+<style>
+red { color: red }
+yellow { color: yellow }
+</style>
+
+<red> red color markdown text</red>
+<yellow> red color markdown text</yellow>
+
 
 ## Referencias
 [MercadoLibre]:https://mercadolibre.com.ar
