@@ -14,7 +14,7 @@ Toda aquella persona u organización que desee conformar una pagina web o bien d
 
 <p>
 
-<p><font color=blue> This text should be purple </font></p>
+<p><font color="blue"> This text should be purple </font></p>
 
 </p>
 
