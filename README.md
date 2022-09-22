@@ -11,7 +11,7 @@ Estos profesionales, formados en Córdoba, decidieron trabajar conjuntamente par
 Toda aquella persona u organización que desee conformar una pagina web o bien desarrollar una aplicación en particular.
 
 ## Tipografía Principal
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+I am in <span style="font-family:Papyrus; font-size:20em;">LOVE!</span>
 I am in LOVE!
 
 ## Referencias
