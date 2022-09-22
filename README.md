@@ -13,7 +13,7 @@ Toda aquella persona u organización que desee conformar una pagina web o bien d
 ## Tipografía Principal
 <p>
 
-<font color="#D8A4E0">This text should be purple</font>
+<p><font color="#D8A4E0"> This text should be purple </font></p>
 
 </p>
 ## Paleta de colores
