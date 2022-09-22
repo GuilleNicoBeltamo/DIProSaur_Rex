@@ -18,7 +18,12 @@ Utilizariamos la paleta de 3 colores compuesta por:
 - RGB: `#D8A4E0`
 - RGB: `#8EE0C7`
 - RGB: `#E0C477`
-test2
+
+<p>
+
+El **código Markdown** de este párrafo, en cambio, _sí_ es procesado.
+
+</p>
 
 ## Ideas para logo (Aún no definido)
 ![Dino Programando](https://previews.123rf.com/images/dogbone66/dogbone661312/dogbone66131200022/24465354-juguete-del-dinosaurio-en-un-ordenador-port%C3%A1til.jpg "Dino programando")
